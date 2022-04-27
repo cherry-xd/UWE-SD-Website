@@ -23,8 +23,8 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/bracket">
-                  Bracket
+                <NavLink className="nav-link" to="/tournaments">
+                  Tournaments
                 </NavLink>
               </li>
               <li className="nav-item">

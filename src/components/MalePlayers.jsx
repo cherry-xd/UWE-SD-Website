@@ -1,0 +1,187 @@
+import React, { useState } from "react";
+
+function MalePlayers() {
+
+  return (
+    <div className="players">
+      <div class="container">
+        <div class="row align-items-center my-5 text-center">
+          <div class="col"/>
+          <div class="col-11 text-center">
+            <h1 class="font-weight-light">List of Male Players</h1>
+            <table class="table">
+              <tr>
+                <th>Player Name</th>
+                <th>Standings</th>
+                <th>Total Points</th>
+              </tr>
+              <tr>
+                <td>MP01</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP02</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP03</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP04</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP05</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP06</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP07</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP08</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP09</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP10</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP11</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP12</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP13</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP14</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP15</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP16</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP17</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP18</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP19</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP20</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP21</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP22</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP23</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP24</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP25</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP26</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP27</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP28</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP29</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP30</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP31</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>MP32</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+            </table> 
+          </div>
+          <div class="col"/>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default MalePlayers;

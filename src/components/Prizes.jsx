@@ -8,12 +8,62 @@ function Prizes() {
           <div class="col"/>
           <div class="col-9">
             <h1 class="font-weight-light">Prizes</h1>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
+            <table class="table">
+              <tr>
+                <th>TAC1</th>
+                <th>TAE21</th>
+                <th>TAW11</th>
+                <th>TBS2</th>
+              </tr>
+              <tr>
+                <td>1st: 1,000,000 🥇</td>
+                <td>1st: 1,000,000 🥇</td>
+                <td>1st: 1,250,000 🥇</td>
+                <td>1st: 1,375,000 🥇</td>
+              </tr>
+              <tr>
+                <td>2nd: 500,000 🥈</td>
+                <td>2nd: 450,000 🥈</td>
+                <td>2nd: 600,000 🥈</td>
+                <td>2nd: 700,000 🥈</td>
+              </tr>
+              <tr>
+                <td>3rd: 250,000 🥉</td>
+                <td>3rd: 225,000 🥉</td>
+                <td>3rd: 300,000 🥉</td>
+                <td>3rd: 350,000 🥉</td>
+              </tr>
+              <tr>
+                <td>4th: 250,000</td>
+                <td>4th: 225,000</td>
+                <td>4th: 300,000</td>
+                <td>4th: 350,000</td>
+              </tr>
+              <tr>
+                <td>5th: 75,000</td>
+                <td>5th: 80,000</td>
+                <td>5th: 100,000</td>
+                <td>5th: 150,000</td>
+              </tr>
+              <tr>
+                <td>6th: 75,000</td>
+                <td>6th: 80,000</td>
+                <td>6th: 100,000</td>
+                <td>6th: 150,000</td>
+              </tr>
+              <tr>
+                <td>7th: 75,000</td>
+                <td>7th: 80,000</td>
+                <td>7th: 100,000</td>
+                <td>7th: 150,000</td>
+              </tr>
+              <tr>
+                <td>8th: 75,000</td>
+                <td>8th: 80,000</td>
+                <td>8th: 100,000</td>
+                <td>8th: 150,000</td>
+              </tr>
+            </table>
           </div>
           <div class="col"/>
         </div>

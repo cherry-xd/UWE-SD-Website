@@ -9,10 +9,9 @@ function Contact() {
           <div class="col-9">
             <h1 class="font-weight-light">Contact</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Email: tennis@mail.com <br/>
+              Enquiries: 02231 842 372 <br/>
+              DM us on: <a href="https:/www.twitter.com">Twitter</a>, <a href="https://www.facebook.com">Facebook</a>
             </p>
           </div>
           <div class="col"/>

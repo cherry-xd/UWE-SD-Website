@@ -7,12 +7,14 @@ function Home() {
         <div class="row align-items-center my-5">
           <div class="col"/>
           <div class="col-9">
-            <h1 class="font-weight-light">Home</h1>
+            <h1 class="font-weight-light">Tournament Info</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Tournament? Tennis! Tennis tournament. XD? XD! 
+              I love tennis I love tennis I love tennis + wimbledon. 
+              Hit ball hard, ball go out, you lose, stupid game!
+              All I know about tennis is there is a guy called Andy or something who is really good.
+              Also I played it on wii sports back in the good old days.
+              This text will be replaced of course.
             </p>
           </div>
           <div class="col"/>

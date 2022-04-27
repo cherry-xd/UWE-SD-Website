@@ -1,0 +1,187 @@
+import React, { useState } from "react";
+
+function FemalePlayers() {
+
+  return (
+    <div className="players">
+      <div class="container">
+        <div class="row align-items-center my-5 text-center">
+          <div class="col"/>
+          <div class="col-9">
+            <h1 class="font-weight-light">List of Female Players</h1>
+            <table class="table">
+              <tr>
+                <th>Player Name</th>
+                <th>Standings</th>
+                <th>Total Points</th>
+              </tr>
+              <tr>
+                <td>FP01</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP02</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP03</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP04</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP05</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP06</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP07</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP08</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP09</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP10</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP11</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP12</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP13</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP14</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP15</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP16</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP17</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP18</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP19</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP20</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP21</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP22</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP23</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP24</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP25</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP26</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP27</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP28</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP29</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP30</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP31</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>FP32</td>
+                <td>S</td>
+                <td>P</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col"/>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default FemalePlayers;
