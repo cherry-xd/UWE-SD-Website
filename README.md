@@ -1,9 +1,9 @@
 the website is run by running:
 
-    'npm install'  
+    npm install
     
 followed by:
 
-    'npm start'  
+    npm start
     
 inside the directory containing this project.
