@@ -7,8 +7,8 @@ function Contact() {
         <div class="row align-items-center my-5">
           <div class="col"/>
           <div class="col-9">
-            <h1 class="font-weight-light">Contact</h1>
-            <p>
+            <h1 class="font-weight-light text-center">Contact</h1>
+            <p class="text-center">
               Email: tennis@mail.com <br/>
               Enquiries: 02231 842 372 <br/>
               DM us on: <a href="https:/www.twitter.com">Twitter</a>, <a href="https://www.facebook.com">Facebook</a>

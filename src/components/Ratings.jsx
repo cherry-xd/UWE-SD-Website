@@ -7,7 +7,7 @@ function Ratings() {
         <div class="row align-items-center my-5">
           <div class="col"/>
           <div class="col-9">
-            <h1 class="font-weight-light">Ratings</h1>
+            <h1 class="font-weight-light text-center">Ratings</h1>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text

@@ -7,17 +7,65 @@ function Home() {
         <div class="row align-items-center my-5">
           <div class="col"/>
           <div class="col-9">
-            <h1 class="font-weight-light">Tournament Info</h1>
+            <h1 class="font-weight-light text-center">Welcome to the A7 Tennis Tournament Info Site!</h1>
+            <br/>
+            <h1 class="font-weight-light text-center">Recently Completed Tournaments:</h1>
+          </div>
+          <div class="col"/>
+        </div>
+        <div class="row align-items-center my-5">
+          <div class="col"/>
+          <div class="col text-center">
+            <h3>
+              TAC1
+            </h3>
             <p>
-              Tournament? Tennis! Tennis tournament. XD? XD! 
-              I love tennis I love tennis I love tennis + wimbledon. 
-              Hit ball hard, ball go out, you lose, stupid game!
-              All I know about tennis is there is a guy called Andy or something who is really good.
-              Also I played it on wii sports back in the good old days.
-              This text will be replaced of course.
+              Mens Winner: MP14<br/>
+              Womens Winner: FP07
+            </p>
+            <h3>
+              TAE21
+            </h3>
+            <p>
+              Mens Winner: MP07<br/>
+              Womens Winner: FP03
+            </p>
+          </div>
+          <div class="col text-center">
+            <h3>
+              TAW11
+            </h3>
+            <p>
+              Mens Winner: MP25<br/>
+              Womens Winner: FP19
+            </p>
+            <h3>
+              TBS2
+            </h3>
+            <p>
+              Mens Winner: MP15<br/>
+              Womens Winner: FP21
             </p>
           </div>
           <div class="col"/>
+        </div>
+        <div class="row align-items-center my-5">
+          <div class="col"/>
+          <div class="col-9">
+            <h1 class="font-weight-light text-center">Upcoming Tournaments:</h1>
+          </div>
+          <div class="col"/>
+        </div>
+        <div class="row align-items-center my-5">
+          <div class="col text-center">
+            <h3>
+              TOT5
+            </h3>
+            <br/>
+            <h3>
+              TWF1
+            </h3>
+          </div>
         </div>
       </div>
     </div>

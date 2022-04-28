@@ -7,8 +7,8 @@ function Prizes() {
         <div class="row align-items-center my-5">
           <div class="col"/>
           <div class="col-9">
-            <h1 class="font-weight-light">Prizes</h1>
-            <table class="table">
+            <h1 class="font-weight-light text-center">Prizes</h1>
+            <table class="table text-center">
               <tr>
                 <th>TAC1</th>
                 <th>TAE21</th>

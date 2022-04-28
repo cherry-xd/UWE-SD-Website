@@ -30,8 +30,8 @@ function Tournaments() {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col"/>
-          <div class="col-9">
-            <h1 class="font-weight-light">Tournaments</h1>
+          <div class="col-9 text-center">
+            <h1 class="font-weight-light text-center">Tournaments</h1>
             <button onClick={forceUpdate} class="btn btn-secondary">
               Refresh
             </button>

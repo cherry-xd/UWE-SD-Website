@@ -7,6 +7,13 @@ function Players() {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col"/>
+          <div class="col-9">
+            <h1 class="font-weight-light text-center">Players</h1>
+          </div>
+          <div class="col"/>
+        </div>
+        <div class="row align-items-center my-5">
+          <div class="col"/>
           <div class="col-5 text-center">
             <NavLink to="/players/male">
               <button class="btn btn-secondary">

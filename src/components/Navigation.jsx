@@ -7,7 +7,7 @@ function Navigation() {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
-            Tennis Tournament Site
+            A7 Tennis Tournament Info Site
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
