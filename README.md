@@ -1,5 +1,9 @@
-the website is run by running  
+the website is run by running:
+
     'npm install'  
-followed by  
+    
+followed by:
+
     'npm start'  
-inside the directory containing this project
+    
+inside the directory containing this project.
